@@ -1,0 +1,75 @@
+﻿body {
+    margin: 0;
+    background-color: rgb(30 30 30);
+}
+
+h1 {
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    height: 30px;
+    text-align: left;
+    color: deepskyblue;
+    font-size: 40px;
+    font-family: 'Poppins',sans-serif;
+}
+
+.signup {
+    color: deepskyblue;
+}
+
+.top {
+    margin: 0;
+    width: 100%;
+    height: 1148px;
+    padding: 0;
+    text-align: center;
+    color: deepskyblue;
+    font-family: 'Poppins',sans-serif;
+    font-size: 100px;
+    background-color: rgb(30 30 30);
+}
+
+.nav {
+    margin: 0;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    color: deepskyblue;
+    font-family: 'Poppins',sans-serif;
+    background-color: rgb(65 65 65);
+}
+
+.nav ul {
+    margin: 0;
+    list-style-type:none;
+    padding: 15px;
+    overflow: hidden;
+    background-color: inherit;
+    font-size: 20px;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: deepskyblue;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+}
+
+.home {
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    color: black;
+    font-family: 'Poppins',sans-serif;
+    background-color: rgb(65 65 65);
+}
+
