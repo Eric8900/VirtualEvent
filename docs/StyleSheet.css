@@ -1,10 +1,6 @@
-body {
-    background-color: rgb(30, 30, 30);
+﻿body {
     margin: 0;
-    margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 0;
+    background-color: rgb(30 30 30);
 }
 
 h1 {
@@ -14,9 +10,12 @@ h1 {
     height: 30px;
     text-align: left;
     color: deepskyblue;
-    background-color: rgb(57, 57, 57);
     font-size: 40px;
-    font-family: Impact;
+    font-family: 'Poppins',sans-serif;
+}
+
+.signup {
+    color: deepskyblue;
 }
 
 .top {
@@ -24,21 +23,21 @@ h1 {
     width: 100%;
     height: 1148px;
     padding: 0;
-    background-color: rgb(30 30 30);
     text-align: center;
     color: deepskyblue;
-    font-family: Impact;
+    font-family: 'Poppins',sans-serif;
     font-size: 100px;
+    background-color: rgb(30 30 30);
 }
 
 .nav {
     margin: 0;
     width: 100%;
     padding: 0;
-    text-align:center;
+    text-align: center;
     color: deepskyblue;
-    background-color: rgb(57, 57, 57);
-    font-family: Impact;
+    font-family: 'Poppins',sans-serif;
+    background-color: rgb(65 65 65);
 }
 
 .nav ul {
@@ -47,7 +46,7 @@ h1 {
     padding: 15px;
     overflow: hidden;
     background-color: inherit;
-    font-size: 20px
+    font-size: 20px;
 }
 li {
     float: left;
@@ -68,9 +67,9 @@ li a:hover {
 .home {
     width: 100%;
     padding: 0;
+    text-align: center;
+    color: black;
+    font-family: 'Poppins',sans-serif;
     background-color: rgb(65 65 65);
-    text-align:center;
-    color: white;
-    font-family: Impact;
-    
 }
+
